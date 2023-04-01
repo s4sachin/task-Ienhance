@@ -1,0 +1,8 @@
+{
+  "web": {
+    "redirect_uris": ["http://localhost:3000/oauth2callback"],
+    "client_id": "1073569547785-2f8ra9amr75m407dnnhhi2fjfdtn14n6.apps.googleusercontent.com",
+    "client_secret": "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",
+    "project_id": "assignment-ienhance"
+  }
+}

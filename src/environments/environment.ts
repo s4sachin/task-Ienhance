@@ -1,16 +1,9 @@
-// This file can be replaced during build by using the `fileReplacements` array.
-// `ng build` replaces `environment.ts` with `environment.prod.ts`.
-// The list of file replacements can be found in `angular.json`.
-
 export const environment = {
-  production: false
+  production: false,
+  CLIENT_ID:
+    '1073569547785-2f8ra9amr75m407dnnhhi2fjfdtn14n6.apps.googleusercontent.com',
+  CLIENT_SECRET: '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',
+  REFRESH_TOKEN:
+    '1//042TZswV_CvI_CgYIARAAGAQSNwF-L9IrTwKa6nyCgPOUA8mdrwrsDd05uMqnrzvPI06fjiyw5tjELCkNQi-p3A6FvFob_TSA5Jw',
+  csvFileId: '1FeAI_D3D_xlfZ__a7MFSCviBLrVc2jFk',
 };
-
-/*
- * For easier debugging in development mode, you can import the following file
- * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
- *
- * This import should be commented out in production mode because it will have a negative impact
- * on performance if an error is thrown.
- */
-// import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
